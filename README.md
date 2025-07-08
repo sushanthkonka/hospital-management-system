@@ -79,24 +79,23 @@ We integrated [**Playwright**](https://github.com/rbpeddapalli/bs-prms-playwrigh
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Login Page](./docs/login-page.png)
+<h3>🔐 Login Page</h3>
+<img src="LoginPage.png" alt="Login Page" width="600"/>
 
-### 📊 Dashboard Page
-![Dashboard Page](./docs/dashboard-page.png)
 
-### ➕ Add Patient Page
-![Add Patient Page](./docs/add-patient-page.png)
+<h3>📊 Dashboard Page</h3>
+<img src="DashboardPage.png" alt="Dashboard Page" width="600"/>
 
-### 📈 Dashboard View (Analytics/Stats)
-![Dashboard View](./docs/dashboard-view.png)
+<h3>➕ Add Patient Page</h3>
+<img src="AddPatientPage.png" alt="Add Patient Page" width="600"/>
+
+<h3>📈 Dashboard View</h3>
+<img src="DashboardView.png" alt="Dashboard View" width="600"/>
 
 
 ## Future Plans
 
 - Implement microservices communication using Azure Service Bus.
-- Add automated end-to-end testing with Playwright.
-- Containerize backend services with Docker and orchestrate with Kubernetes.
 - Explore advanced healthcare domain standards such as HL7 and FHIR.
 - Enhance responsiveness and accessibility of the UI.
 - Create Blazor frontend alternative.
@@ -105,18 +104,23 @@ We integrated [**Playwright**](https://github.com/rbpeddapalli/bs-prms-playwrigh
 
 ## About Me
 
-This repository showcases my work on a full-stack hospital management system prototype, built with modern web technologies and cloud-native architecture. The project reflects my learning journey and hands-on experience with React, .NET Core, Azure, and SQL databases.
+I’m a passionate and goal-driven Full Stack Developer with hands-on experience building scalable, modular web applications using React, ASP.NET Core, and Azure cloud services. I specialize in developing microfrontend-based systems that promote independent team collaboration, faster releases, and clean separation of concerns.
+
+My recent project, a Hospital Management System , reflects my ability to design and implement production-ready systems—integrating secure authentication, RESTful APIs, cloud deployment, database architecture, CI/CD pipelines, and end-to-end testing using Playwright.
+
+I'm committed to writing clean, maintainable code using SOLID principles, Clean Architecture, and modern UI/UX practices with tools like Figma and Material UI. I enjoy working across the stack, solving real-world problems, and continuously improving my skills.
+
 
 ---
 
-*Note: Actual source code is not included due to privacy and company policies.*
+## 📬 Contact
 
----
+I'm open to collaboration, feedback, or exciting opportunities. Feel free to reach out!
 
-### Contact
-
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: [konkasushanth15@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/konka453/]
+- 📍 Location: [Plano, Texas] 
+ 
 
 ---
 
