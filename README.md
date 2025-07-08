@@ -16,7 +16,10 @@ The main goal is to build a scalable, modular, and maintainable system that can 
 - **Backend Services**: .NET Core Web APIs handling business logic and data persistence.
 - **Azure Cloud**: Hosting frontends via Azure Static Web Apps, backend APIs on Azure App Services, and data stored in Azure SQL Database.
 
-![Architecture Diagram](./docs/architecture.png)
+## System Architecture
+
+![Architecture Diagram](Architecture_Diagram_HospitalManagementSystem.png)
+
 
 ---
 
