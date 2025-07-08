@@ -50,8 +50,16 @@ The main goal is to build a scalable, modular, and maintainable system that can 
 - [Login Service](https://github.com/rbpeddapalli/bs-prms-login-service)
 - [Dashboard Service](https://github.com/rbpeddapalli/bs-prms-dashboard-service)
 
-### Database Scripts
-- [Database Scripts](https://github.com/yourorg/db-scripts)
+## Testing with Playwright
+
+We integrated [**Playwright**](https://github.com/rbpeddapalli/bs-prms-playwrightintegration) for automated end-to-end testing of critical user flows like login and patient registration.
+
+- Test setup with `npx playwright install`
+- Tests are organized under the `/tests` directory
+- Run tests using:  
+  ```bash
+  npx playwright test
+
 
 ---
 
