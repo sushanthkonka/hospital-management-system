@@ -77,21 +77,20 @@ We integrated [**Playwright**](https://github.com/rbpeddapalli/bs-prms-playwrigh
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-![Patient Registration Form](./docs/patient-registration-form.png)
+### 🔐 Login Page
+![Login Page](./docs/login-page.png)
 
-*More screenshots and Figma design files can be added here.*
+### 📊 Dashboard Page
+![Dashboard Page](./docs/dashboard-page.png)
 
----
+### ➕ Add Patient Page
+![Add Patient Page](./docs/add-patient-page.png)
 
-## Live Demo
+### 📈 Dashboard View (Analytics/Stats)
+![Dashboard View](./docs/dashboard-view.png)
 
-You can access the deployed React application here:  
-[https://your-app-url.azurestaticapps.net](https://your-app-url.azurestaticapps.net)  
-*(Replace with actual URL if available)*
-
----
 
 ## Future Plans
 
