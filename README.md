@@ -40,15 +40,15 @@ The main goal is to build a scalable, modular, and maintainable system that can 
 ## Related Repositories
 
 ### Frontend Microfrontends
-- [Shell App (Container)](https://github.com/yourorg/shell-app)
-- [Login Microfrontend](https://github.com/yourorg/login-mf)
-- [Dashboard Microfrontend](https://github.com/yourorg/dashboard-mf)
-- [Add Patient Microfrontend](https://github.com/yourorg/add-patient-mf)
+- [Shell App (Container)](https://github.com/rbpeddapalli/bs-prms-shell-app)
+- [Login Microfrontend](https://github.com/rbpeddapalli/bs-prms-login)
+- [Dashboard Microfrontend](https://github.com/rbpeddapalli/bs-prms-dashboard)
+- [Add Patient Microfrontend](https://github.com/rbpeddapalli/bs-prms-add-patient)
 
 ### Backend Services
-- [Patient Registration API](https://github.com/yourorg/patient-registration-service)
-- [Authentication Service](https://github.com/yourorg/authentication-service)
-- [Notification Service](https://github.com/yourorg/notification-service)
+- [Add Patient Registration API](https://github.com/rbpeddapalli/bs-prms-add-patient-service)
+- [Login Service](https://github.com/rbpeddapalli/bs-prms-login-service)
+- [Dashboard Service](https://github.com/rbpeddapalli/bs-prms-dashboard-service)
 
 ### Database Scripts
 - [Database Scripts](https://github.com/yourorg/db-scripts)
