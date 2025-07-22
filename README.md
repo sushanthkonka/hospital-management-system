@@ -68,10 +68,13 @@ We integrated [**Playwright**](https://github.com/rbpeddapalli/bs-prms-playwrigh
 - Developed patient registration form using plain HTML/CSS, then upgraded to React with Material UI.
 - Created React microfrontends using Module Federation for login, dashboard, and patient management.
 - Built .NET Core Web APIs with Swagger integration for easy API testing and documentation.
+- Implemented JWT token-based authentication to securely validate user credentials and manage session tokens.
 - Set up Azure environment with resource groups, Static Web Apps, and App Services.
 - Configured CI/CD pipelines using GitHub Actions for automated deployment.
 - Integrated Azure SQL Database for persistent storage.
 - Designed UI/UX mockups using Figma.
+- Integrated Playwright for end-to-end UI automation testing.
+- Practiced unit testing with xUnit (C#) and JUnit (Java) for robust backend logic validation.
 - Learned and practiced C#, ASP.NET Core, SQL Server, and React fundamentals.
 - Planned upcoming features: microservices communication with Azure Service Bus, containerization with Docker and Kubernetes.
 
