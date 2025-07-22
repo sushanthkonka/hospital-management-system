@@ -1,4 +1,4 @@
-# Hospital Management System - Project Showcase
+# Hospital Management System - Project
 
 ## Overview
 This project is a prototype for a Hospital Management System (HMS) using a **microfrontend architecture**. The system consists of multiple React microfrontends, backed by .NET Core Web API services, and deployed on Microsoft Azure.
